@@ -87,8 +87,8 @@ return (
         </nav>
 
         <div className="redesFooter">
-            <img src="instagram.png" alt="Logo do Instagram" className="redes" />
-            <img src="linkedin.png" alt="Logo do LinkedIn" className="redes" />
+            <a href="https://www.instagram.com/nextcode_studios/" target="_blank" rel="noopener noreferrer">
+            <img src="/instagram.png" alt="Instagram" className="redes" /> </a>
         </div>
     </div>
 

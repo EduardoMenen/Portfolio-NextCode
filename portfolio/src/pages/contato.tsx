@@ -48,9 +48,8 @@ export default function Contato() {
         {/* Agrupando Instagram e LinkedIn */}
         <div className="RedesSociais">
             <div className="Instagram">
-                <a href="https://www.instagram.com/eduardo_menegazzo_/" target="_blank" rel="noopener noreferrer">
-                    <img src="/instagram.png" alt="Instagram" className="IconeContato" />
-                </a>
+                <a href="https://www.instagram.com/nextcode_studios/" target="_blank" rel="noopener noreferrer">
+                <img src="/instagram.png" alt="Instagram" className="IconeContato" /> </a>
                 <p className="TextoContato">NextCode Studios</p>
             </div>
             <div className="Linkedin">

@@ -35,22 +35,22 @@ Este é o portfólio oficial da **NextCode Studios**, uma software house focada 
 1. Clone este repositório:
 
 Acesse o diretório do projeto:
-- cd nextcode-portfolio
+cd portfolio
 
 2. Instale as dependências principais:
 npm install
-# ou
+ou
 yarn install
 
 3. Instale as bibliotecas adicionais utilizadas:
 npm install react-scroll lucide-react
-# ou
+ou
 yarn add react-scroll lucide-react
 
 3. Inicie o servidor de desenvolvimento:
 
 npm run dev
-# ou
+ou
 yarn dev
 Acesse em: http://localhost:3000
 
